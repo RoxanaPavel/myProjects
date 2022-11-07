@@ -1,0 +1,2 @@
+For this project I used this API https://ghibliapi.herokuapp.com/?ref=public-apis#tag/Films which contains informations about movies from the Studio Ghibli Studio, a famous Japanese studio.
+I used the information from the API to display the information to the website.
